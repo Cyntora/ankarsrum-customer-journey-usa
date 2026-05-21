@@ -4,12 +4,16 @@ Single-market deep dive of the customer journey on Ankarsrum's US market, delive
 
 **Market:** USA (`ankarsrum.com/us/`)
 **Period:** 15 May 2025 to 14 May 2026
-**Version:** 1.0 (US draft, second market after Sweden)
+**Version:** 1.1 (US draft, second market after Sweden; added executive summary + impact/effort/KPI per rec)
 **Delivered:** May 2026
+
+## Scope
+
+This deck is a data-driven foundation for the US market. It describes how the USA behaves in the channels and analytics that are measurable today (GA4, GSC, Meta Ads, Google Ads, WooCommerce). It is intended as an input to the strategy agency's continued customer journey, persona and positioning work, not as a replacement for that work.
 
 ## Files
 
-- `index.html` — single-file scroll deck, 13 slides
+- `index.html` — single-file scroll deck, 15 slides
 - `deck.pdf` — 16:9 PDF backup, 1600×900 px
 - `README.md` — this file
 
